@@ -23,7 +23,7 @@ require (
 	github.com/vishvananda/netlink v1.3.1
 	github.com/vishvananda/netns v0.0.5
 	golang.org/x/net v0.47.0
-	golang.org/x/sys v0.38.0
+	golang.org/x/sys v0.39.0
 	google.golang.org/protobuf v1.36.10
 )
 
@@ -31,5 +31,10 @@ require (
 	cyphar.com/go-pathrs v0.2.1 // indirect
 	github.com/cilium/ebpf v0.17.3 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.7 // indirect
+	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
+	github.com/mdlayher/socket v0.5.1 // indirect
+	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
+	github.com/rogpeppe/go-internal v1.14.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
+	golang.org/x/sync v0.19.0 // indirect
 )
